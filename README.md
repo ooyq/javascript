@@ -1,7 +1,7 @@
 ### Catalog
 | project | description | status |
 | :---: | :---: | :---: |
-| [Calendar](https://github.com/eoooy/JavaScript/tree/main/Calendar/README.md) | Record Learning Process | [available](https://github.com/eoooy/JavaScript/tree/main/Calendar/README.md) |
+| [Learn](https://github.com/eoooy/JavaScript/tree/main/Learn/README.md) | Record Learning Process | [available](https://github.com/eoooy/JavaScript/tree/main/Learn/README.md) |
 
 ---
 ### Tools Recommendation
